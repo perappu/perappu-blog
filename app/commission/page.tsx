@@ -24,7 +24,7 @@ export default function LorekeeperCommissions() {
                 </ul>
         </article>
         <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">
-            <h3><a href="#newsite">New Sites</a></h3>
+            <h3 id="newsite"><a target="_blank" href="#newsite">New Sites</a></h3>
             <p className="mx-5">Initial dev work is <strong>$40/hour</strong>, which will be tracked via message timestamps. <strong>Initial site setup is a minimum of $40.</strong></p>
 
             <p className="mx-5">I try to be extremely fair with what counts as billable time. <strong>Time tracking is done via Discord message timestamps.</strong> I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on!</p>
@@ -44,16 +44,16 @@ export default function LorekeeperCommissions() {
 
             <p className="mx-5"><strong>Additional dev work after initial site setup is discounted for people I host at $35/hour.</strong> This is as a thank you for choosing me for your hosting!</p>
 
-            <h3><a href="#existing">Existing Sites</a></h3>
+            <h3 id="existing"><a target="_blank" href="#existing">Existing Sites</a></h3>
             <p className="mx-5">If you have an existing LK site and would like to transfer to my services, I&apos;m happy to help! I charge $40/hour with a one hour minimum charge. You will need to be comfortable providing any necessary logins. After that, you benefit from the discounted $35/hour rate.</p>
 
-            <h3><a href="#generalwork">General Work</a></h3>
+            <h3 id="generalwork"><a target="_blank" href="#generalwork">General Work</a></h3>
             <p className="mx-5">I can also help with general dev work at my standard $40/hour charge. This can include adding plugins, updating your site, etc. For the time being, I don&apos;t offer creation of new plugins.</p>
 
         </article >
         <hr className="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" />
         <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">
-            <h3><a href="#tos">Terms of Service</a></h3>
+            <h3 id="tos"><a target="_blank" href="#tos">Terms of Service</a></h3>
             <p><strong>By purchasing my services you automatically agree to the following terms and conditions. It is your responsibility to be familiar with these terms. They are subject to change at any time.</strong></p>
             <h4>General</h4>
             <ul className="mx-5">
