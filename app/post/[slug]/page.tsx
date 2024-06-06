@@ -32,7 +32,6 @@ function getPost({slug} : {slug : string}){
 }
 
 export default async function Page({ params }: { params: { slug: string } }) {
-
     const props = getPost(params);
 
     return (
