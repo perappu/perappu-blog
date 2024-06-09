@@ -29,9 +29,9 @@ export default function LorekeeperCommissions() {
 
             <p className="mx-5">I try to be extremely fair with what counts as billable time. <strong>Time tracking is done via Discord message timestamps.</strong> I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on!</p>
 
-            <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you the most basic plan offered by DigitalOcean:</p>
-<img src="/perappu-blog/img/digitaloceanplan.png" />
-            <p className="mx-5">If you wish for a faster server, the cost per month will go up accordingly. I&apos;m flexible with payment methods and you&apos;re free to pay for several months in advance.</p>
+            <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you this plan offered by DigitalOcean, comparable to Dreamhost's basic plan:</p>
+<img src="/img/digitaloceanplan.png" />
+            <p className="mx-5">If you wish for a faster server, the cost per month will go up accordingly. You&apos;re free to pay for several months in advance.</p>
 
             <p className="mx-5"><strong>This is a better deal than DreamHost!</strong> Why? Well...</p>
             <p className="mx-5">The $20 per month includes:</p>
@@ -67,6 +67,7 @@ export default function LorekeeperCommissions() {
             <ul className="mx-5">
                 <li>The initial $40 for all services is paid upfront. An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
                 <li>Hosting payment has a 15 day grace period. If you do not pay before the 15th of the month, your site will be turned off until paid.</li>
+                <li>Hosting payment can be set up as a paypal/stripe subscription if preferred.</li>
                 <li>You may pay for multiple months in advance. However, I do not offer discounts at this time.</li>
                 <li>Payment may be done via Paypal or Stripe.</li>
             </ul>
