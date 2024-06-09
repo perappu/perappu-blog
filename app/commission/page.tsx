@@ -29,7 +29,7 @@ export default function LorekeeperCommissions() {
 
             <p className="mx-5">I try to be extremely fair with what counts as billable time. <strong>Time tracking is done via Discord message timestamps.</strong> I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on!</p>
 
-            <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you this plan offered by DigitalOcean, comparable to Dreamhost's basic plan:</p>
+            <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you this plan offered by DigitalOcean, comparable to Dreamhost&apos;s basic plan:</p>
 <img src="/img/digitaloceanplan.png" />
             <p className="mx-5">If you wish for a faster server, the cost per month will go up accordingly. You&apos;re free to pay for several months in advance.</p>
 
