@@ -39,7 +39,7 @@ export default function LorekeeperCommissions() {
                     <li>Site and image hosting</li>
                     <li>Updates to LK</li>
                     <li>Updates to plugins</li>
-                    <li>Basic tech support, bug fixes (&quot;It suddenly broke and I don&apos;t know how to fix it&quot;)</li>
+                    <li>Bug fixes (&quot;It suddenly broke and I don&apos;t know how to fix it&quot;) and other small changes (see TOS for details)</li>
                 </ul>
 
             <p className="mx-5"><strong>Additional dev work after initial site setup is discounted for people I host at $35/hour.</strong> This is as a thank you for choosing me for your hosting!</p>
@@ -65,18 +65,19 @@ export default function LorekeeperCommissions() {
             </ul>
             <h4>Payment</h4>
             <ul className="mx-5">
-                <li>The initial $40 is paid upfront. An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
+                <li>The initial $40 for all services is paid upfront. An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
                 <li>Hosting payment has a 15 day grace period. If you do not pay before the 15th of the month, your site will be turned off until paid.</li>
                 <li>You may pay for multiple months in advance. However, I do not offer discounts at this time.</li>
-                <li>Payment may be done via Paypal or Stripe. If neither is available in your country, I&apos;m open to other options!</li>
+                <li>Payment may be done via Paypal or Stripe.</li>
             </ul>
             <h4>Hosting Details</h4>
             <ul className="mx-5">
                 <li>I can work with other hosting options (such as DreamHost), but I can not provide support past initial set up.</li>
-                <li>Domain names <i>for people I host</i> will be purchased via Namecheap and managed on my own account for ease. It&apos;s also a separate purchase from what I charge for dev work -- expect to pay about $20/year. There&apos;s a legally required 60 day period before we can transfer the domain, but after that timeframe you can manage it yourself if you would prefer. If I am not hosting your site, you&apos;re responsible for your own domain.</li>
+                <li>Bug fixes or changes that can be made in 10m or less (typically UI changes) are covered by your $20 monthly charge. To prevent overworking myself, frequent small changes will incur additional dev time at your discounted $35/hour rate. I'll let you know as soon as we approach that amount -- there will be no surprises.</li>
+                <li>Domain names <i>for people I host</i> will be purchased via Namecheap and managed on my own account for ease. It&apos;s also a separate purchase from what I charge for dev work -- expect to pay about $20/year. There&apos;s a legally required 60 day period before we can transfer the domain, but after that timeframe you can manage it yourself if you would prefer. If I am not hosting your site, you are responsible for your own domain.</li>
                 <li>Your website&apos;s code will be available via a private GitHub repository at any time.</li>
                 <li>If you have another coder for your site, I have no problem working with them! I don&apos;t offer any discounts for that, however.</li>
-                <li>I typically do not provide email accounts, but this can be discussed depending on your needs. I&apos;m happy to help you set something up.</li>
+                <li>I typically do not provide email accounts (such as admin@yourdomain.com), but this can be discussed depending on your needs. I&apos;m happy to help you set something up.</li>
                 <li>If you wish to shut down, I will store your database for six months. We can discuss your options if you need it stored longer. Your code will be available on GitHub indefinitely, unless you request otherwise. Data can be deleted at your request at any time, in compliance with EU law.</li>
                 <li>Your website will be stored on a DigitalOcean suite of services that is managed by me. DigitalOcean is the one legally responsible for the storage of your data, not me.</li>
                 <li>If you decide to move off of my hosting services, I have no problem helping you migrate. I do not offer unpaid support after you migrate to a different host. However, you may hire me for additional dev services at my standard rate.</li>
