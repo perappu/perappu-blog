@@ -74,7 +74,7 @@ export default function LorekeeperCommissions() {
             <h4>Hosting Details</h4>
             <ul className="mx-5">
                 <li>I can work with other hosting options (such as DreamHost), but I can not provide support past initial set up.</li>
-                <li>Bug fixes or changes that can be made in 10m or less (typically UI changes) are covered by your $20 monthly charge. To prevent overworking myself, frequent small changes will incur additional dev time at your discounted $35/hour rate. I'll let you know as soon as we approach that amount -- there will be no surprises.</li>
+                <li>Bug fixes or changes that can be made in 10m or less (typically UI changes) are covered by your $20 monthly charge. To prevent overworking myself, frequent small changes will incur additional dev time at your discounted $35/hour rate. I&apos;ll let you know as soon as we approach that amount -- there will be no surprises.</li>
                 <li>Domain names <i>for people I host</i> will be purchased via Namecheap and managed on my own account for ease. It&apos;s also a separate purchase from what I charge for dev work -- expect to pay about $20/year. There&apos;s a legally required 60 day period before we can transfer the domain, but after that timeframe you can manage it yourself if you would prefer. If I am not hosting your site, you are responsible for your own domain.</li>
                 <li>Your website&apos;s code will be available via a private GitHub repository at any time.</li>
                 <li>If you have another coder for your site, I have no problem working with them! I don&apos;t offer any discounts for that, however.</li>
