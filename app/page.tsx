@@ -49,7 +49,7 @@ function buildPostUrl(slug: string): string {
 const PostCard: React.FC<Meta> = ({ title, description, date, tags, slug }) => {
   const url = buildPostUrl(slug)
   return (
-    <article className="prose prose-slate prose-invert prose-base:prose-lg max-w-none">
+    <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">
       <a href={url}>
         <h2>{title}</h2></a>
       {description}
@@ -60,7 +60,8 @@ const PostCard: React.FC<Meta> = ({ title, description, date, tags, slug }) => {
 export default async function Home() {
   const resources = await getResources();
   return (<>
-    <article className="prose prose-slate prose-invert"><h1>Posts</h1></article>
+    <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">Hey there! Welcome to my old fashioned blog-slash-homepage. It's a bit of a work in progress.</article>
+    <hr className="m-5" />
     <ul>
       {resources.map((post) => (
         <PostCard key={post.slug} {...post.meta} />

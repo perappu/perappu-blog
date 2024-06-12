@@ -41,6 +41,9 @@ function NavBar() {
                         <a href="#" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
                             Projects
                         </a>
+                        <a href="/commission" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
+                            Commission
+                        </a>
                         <a href="/about" className="block mt-4 lg:inline-block lg:mt-0 text-white-200 mr-4">
                             About
                         </a>
