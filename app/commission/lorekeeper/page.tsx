@@ -69,7 +69,7 @@ export default function LorekeeperCommissions() {
                 <li>I can work on a commission&sol;per-project basis instead of hourly for general dev work, but please be aware that it will not provide a discount.</li>
                 <li>Payment may be done via Paypal or Stripe.</li>
             </ul>
-            <h4>Hosting Details</h4>
+            <h4>Hosting Details (only applies to people whose website I host)</h4>
             <ul className="mx-5">
                 <li>I can work with other hosting options (such as DreamHost), but I can not provide support past initial set up.</li>
                 <li>Hosting payment has a 15 day grace period. If you do not pay before the 15th of the month, your site will be turned off until paid.</li>
