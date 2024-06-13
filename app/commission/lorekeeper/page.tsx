@@ -13,7 +13,7 @@ export default function LorekeeperCommissions() {
 
             <p className="mx-5">I can:</p>
                 <ul className="mx-5">
-                    <li>Manage all aspects of your hosting set up -- domain name, files, images, database, sendgrid...</li>
+                    <li>Maintain all aspects of your hosting set up -- domain name, files, images, database, sendgrid...</li>
                     <li>Keep your server secured</li>
                     <li>Keep your site updated to the newest version of LK v3.</li>
                     <li>Install & edit plugins</li>
@@ -34,9 +34,9 @@ export default function LorekeeperCommissions() {
             <p className="mx-5">If you wish for a faster server, the cost per month will go up accordingly. You&apos;re free to pay for several months in advance.</p>
 
             <p className="mx-5"><strong>This is a better deal than DreamHost!</strong> Why? Well...</p>
-            <p className="mx-5">The $20 per month includes:</p>
+            <p className="mx-5">On top of hosting, the $20 per month includes:</p>
                 <ul className="mx-5">
-                    <li>Site and image hosting</li>
+                    <li>Basic maintenance</li>
                     <li>Updates to LK</li>
                     <li>Updates to plugins</li>
                     <li>Bug fixes (&quot;It suddenly broke and I don&apos;t know how to fix it&quot;) and other small changes (see TOS for details)</li>
@@ -65,15 +65,16 @@ export default function LorekeeperCommissions() {
             </ul>
             <h4>Payment</h4>
             <ul className="mx-5">
-                <li>The initial $40 for all services is paid upfront. An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
-                <li>Hosting payment has a 15 day grace period. If you do not pay before the 15th of the month, your site will be turned off until paid.</li>
-                <li>Hosting payment can be set up as a paypal/stripe subscription if preferred.</li>
-                <li>You may pay for multiple months in advance. However, I do not offer discounts at this time.</li>
+                <li>An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
+                <li>I can work on a commission&sol;per-project basis instead of hourly for general dev work, but please be aware that it will not provide a discount.</li>
                 <li>Payment may be done via Paypal or Stripe.</li>
             </ul>
             <h4>Hosting Details</h4>
             <ul className="mx-5">
                 <li>I can work with other hosting options (such as DreamHost), but I can not provide support past initial set up.</li>
+                <li>Hosting payment has a 15 day grace period. If you do not pay before the 15th of the month, your site will be turned off until paid.</li>
+                <li>Hosting payment can be set up as a paypal/stripe subscription if preferred.</li>
+                <li>You may pay for multiple months in advance. However, I do not offer discounts at this time.</li>
                 <li>Bug fixes or changes that can be made in 10m or less (typically UI changes) are covered by your $20 monthly charge. To prevent overworking myself, frequent small changes will incur additional dev time at your discounted $35/hour rate. I&apos;ll let you know as soon as we approach that amount -- there will be no surprises.</li>
                 <li>Domain names <i>for people I host</i> will be purchased via Namecheap and managed on my own account for ease. It&apos;s also a separate purchase from what I charge for dev work -- expect to pay about $20/year. There&apos;s a legally required 60 day period before we can transfer the domain, but after that timeframe you can manage it yourself if you would prefer. If I am not hosting your site, you are responsible for your own domain.</li>
                 <li>Your website&apos;s code will be available via a private GitHub repository at any time.</li>
