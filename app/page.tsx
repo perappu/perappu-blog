@@ -60,7 +60,7 @@ const PostCard: React.FC<Meta> = ({ title, description, date, tags, slug }) => {
 export default async function Home() {
   const resources = await getResources();
   return (<>
-    <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">Hey there! Welcome to my old fashioned blog-slash-homepage. It's a bit of a work in progress.</article>
+    <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">Hey there! Welcome to my old fashioned blog-slash-homepage. It&apos;s a bit of a work in progress.</article>
     <hr className="m-5" />
     <ul>
       {resources.map((post) => (
