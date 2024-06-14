@@ -3,7 +3,7 @@ export default function Footer() {
     <div className="mx-0 sm:mx-6 text-center">
     © 2024 perappu
     <br />
-      <a href="https://github.com/perappu">github</a>
+      <a href="https://github.com/perappu">github</a> | <a href="https://ko-fi.com/stokori">ko-fi</a>
     </div>
   </div>)
   }
