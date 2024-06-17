@@ -25,9 +25,9 @@ export default function LorekeeperCommissions() {
         </article>
         <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">
             <h3 id="newsite"><a target="_blank" href="#newsite">New Sites</a></h3>
-            <p className="mx-5">Initial dev work is <strong>$40/hour</strong>, which will be tracked via message timestamps. <strong>Initial site setup is a minimum of $40.</strong></p>
+            <p className="mx-5">Initial dev work is <strong>$40/hour</strong>, which will be tracked via message timestamps and an external time-tracking tool. <strong>Initial site setup is a minimum of $40.</strong> Depending on your plugin choices, most sites can be set up within 2-3 hours of billable time. Vanilla site setup (no plugins) takes about an hour of billable time.</p>
 
-            <p className="mx-5">I try to be extremely fair with what counts as billable time. <strong>Time tracking is done via Discord message timestamps.</strong> I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on!</p>
+            <p className="mx-5">I try to be extremely fair with what counts as billable time. I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on! I can explain as much or as little of the process as you'd like.</p>
 
             <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you this plan offered by DigitalOcean, comparable to Dreamhost&apos;s basic plan:</p>
 <img src="/img/digitaloceanplan.png" />
