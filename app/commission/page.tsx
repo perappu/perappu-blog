@@ -8,7 +8,7 @@ export default function Commissions() {
         </article>
                 <ul className="mx-5">
                     <li>Toyhouse Codes</li>
-                    <li>Art Fight Codes</li>
+                    <li><a href="https://toyhou.se/~forums/16.htmlcss-graphics/533364.stokoris-art-fight-codes">Art Fight Codes</a></li>
                     <li>Lorekeeper Extensions</li>
                 </ul>
         <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-4">

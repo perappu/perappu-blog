@@ -45,7 +45,7 @@ export default function LorekeeperCommissions() {
             <p className="mx-5"><strong>Additional dev work after initial site setup is discounted for people I host at $35/hour.</strong> This is as a thank you for choosing me for your hosting!</p>
 
             <h3 id="existing"><a target="_blank" href="#existing">Existing Sites</a></h3>
-            <p className="mx-5">If you have an existing LK site and would like to transfer to my services, I&apos;m happy to help! I charge $40/hour with a one hour minimum charge. You will need to be comfortable providing any necessary logins. After that, you benefit from the discounted $35/hour rate.</p>
+            <p className="mx-5">If you have an existing LK site and would like to transfer to my services, I&apos;m happy to help! I charge $35/hour with a one hour minimum charge. Most site transitions can be done within 1-2 hours. You will need to be comfortable providing any necessary logins -- for Dreamhost, this is usually your account and PuTTy logins. After that, you still benefit from the discounted $35/hour rate.</p>
 
             <h3 id="generalwork"><a target="_blank" href="#generalwork">General Work</a></h3>
             <p className="mx-5">I can also help with general dev work at my standard $40/hour charge. This can include adding plugins, updating your site, etc. For the time being, I don&apos;t offer creation of new plugins.</p>
