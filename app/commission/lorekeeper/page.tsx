@@ -27,7 +27,7 @@ export default function LorekeeperCommissions() {
             <h3 id="newsite"><a target="_blank" href="#newsite">New Sites</a></h3>
             <p className="mx-5">Initial dev work is <strong>$40/hour</strong>, which will be tracked via message timestamps and an external time-tracking tool. <strong>Initial site setup is a minimum of $40.</strong> Depending on your plugin choices, most sites can be set up within 2-3 hours of billable time. Vanilla site setup (no plugins) takes about an hour of billable time.</p>
 
-            <p className="mx-5">I try to be extremely fair with what counts as billable time. I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on! I can explain as much or as little of the process as you'd like.</p>
+            <p className="mx-5">I try to be extremely fair with what counts as billable time. I will send you messages periodically throughout the development process, so you are aware exactly when and what I&apos;m working on! I can explain as much or as little of the process as you&apos;d like.</p>
 
             <p className="mx-5"><strong>Hosting starts at $20/month.</strong> This gets you this plan offered by DigitalOcean, comparable to Dreamhost&apos;s basic plan:</p>
 <img src="/img/digitaloceanplan.png" />
@@ -66,7 +66,7 @@ export default function LorekeeperCommissions() {
             <h4>Payment</h4>
             <ul className="mx-5">
                 <li>An invoice for hourly charges will be delivered after the work is completed. The site will be turned on and code delivered after that invoice has been paid.</li>
-                <li>I can work on a commission&sol;per-project basis instead of hourly for general dev work, but please be aware that it will not provide a discount.</li>
+                <li>I can work on a commission&#47;per-project basis instead of hourly for general dev work, but please be aware that it will not provide a discount.</li>
                 <li>Payment may be done via Paypal or Stripe.</li>
             </ul>
             <h4>Hosting Details (only applies to people whose website I host)</h4>
