@@ -3,14 +3,28 @@
 @tailwind utilities;
 
 @layer base {
-    h1 {
-        @apply no-underline;
-    }
-    a {
-      @apply decoration-slate-400;
-      @apply underline;
-    }
-    a:hover {
-        @apply decoration-slate-200;
-    }
+  h1 {
+    @apply no-underline;
   }
+
+  a {
+    @apply decoration-slate-400;
+    @apply underline;
+  }
+
+  a:hover {
+    @apply decoration-slate-200;
+  }
+
+  p {
+    @apply mx-5;
+  }
+
+  ul {
+    @apply mx-5;
+  }
+
+  li {
+    @apply m-0;
+  }
+}

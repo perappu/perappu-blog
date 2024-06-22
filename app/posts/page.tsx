@@ -4,8 +4,8 @@ import * as fs from 'fs';
 import path from 'path';
 
 export const metadata: Metadata = {
-  title: "perappu - Home",
-  description: "home page of perappu's blog",
+  title: "perappu - Posts",
+  description: "blog posts of perappu's blog",
 };
 
 function parseFrontMatter(filename: string) {
@@ -60,11 +60,11 @@ const PostCard: React.FC<Meta> = ({ title, description, date, tags, slug }) => {
 export default async function Home() {
   const resources = await getResources();
   return (<>
-    <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">Hey there! Welcome to my old fashioned blog-slash-homepage. It&apos;s a bit of a work in progress.</article>
-    <hr className="m-5" />
     <ul>
-      {resources.map((post) => (
+      {resources.map((post) => (<>
         <PostCard key={post.slug} {...post.meta} />
+        <hr className="m-5" />
+        </>
       )
       )}</ul></>
   );
