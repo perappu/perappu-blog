@@ -62,10 +62,10 @@ export default async function Home() {
   return (<>
     <article className="prose !max-w-none prose-sm md:prose-base lg:prose-lg prose-slate !prose-invert !mt-5">Hey there! Welcome to my old fashioned blog-slash-homepage. It&apos;s a bit of a work in progress.</article>
     <hr className="m-5" />
-    <ul>
+    {/* <ul>
       {resources.map((post) => (
         <PostCard key={post.slug} {...post.meta} />
       )
-      )}</ul></>
+      )}</ul> */}</>
   );
 }
